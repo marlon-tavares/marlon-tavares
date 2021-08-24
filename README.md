@@ -2,7 +2,7 @@
 
 <h3>I'm Marlon Hlatchuk Tavares</h3>
 
-<p>:computer: I'm Quality Assurance Analisty!.<br>
+<p>:computer: I'm Quality Assurance Analisty.<br>
 :house_with_garden: I’m from Brazil.<br>
 :books: I’m currently learning everything.<br>
 :outbox_tray: 2021 Goals: create a new project and find a new job.</p>
