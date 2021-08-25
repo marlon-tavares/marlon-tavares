@@ -39,12 +39,12 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" href /> </a>
 <a href="colocar link Cypress">
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" href /> </a>
-<a href="https://pt.wikipedia.org/wiki/MySQL">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" href /> </a>
 <a href="colocar link Jira">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" href /> </a>
 <a href="colocar link Azure">
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" href /> </a>
+<a href="https://pt.wikipedia.org/wiki/MySQL">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" href /> </a>
 <a href="colocar link VScode">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" href /> </a>
 <a href="colocar link SublimeText">
