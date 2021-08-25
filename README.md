@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 <h3> I'm Marlon H. Tavares</h3>
 <p align="left"> 
-  Hey, welcome to my perfil. I graduated in Technologist in Industrial Mechatronics. I have about 10 years of experience in industrial quality and as I love technology I am studying to specialize in software quality.<br></p>
+  Hey, welcome to my perfil. I graduated in Technologist in Industrial Mechatronics. I have about 10 years of experience in Industrial Quality and as I studying to specialize in Software Quality.<br></p>
       🖥️ Quality Assurance Analisty.<br>
       🚶‍♂️  28 years old. <br>
       🏡 Curitiba/Brazil.<br>
