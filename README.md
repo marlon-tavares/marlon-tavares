@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h3> Olá, meu nome é Marlon H. Tavares</h3>
+<h3> Olá, meu nome é Marlon Hlatchuk Tavares</h3>
 <p align="left"> 
   Bem vindo ao meu perfil, eu sou graduado em Tecnologia em Mecatrônica Industrial e tenho cerca de 10 anos de experiência na área da Qualidade Industrial. Atualmente, tenho me especializado em Qualidade de Software e meu objetivo é realizar uma transição de carreira. Além das práticas, conceitos e mentalidade do QA estou focando meus estudos em testes automatizados e dentre as ferramentas que eu encontrei me identifiquei bastante com Robot FrameWork.<br></p>
       🖥️ Quality Assurance Analisty.<br>
