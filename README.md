@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="280px" align="right" alt="Computador iuriCode">
-<h3> I'm Marlon H. Tavares</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h3> Olá, meu nome é Marlon H. Tavares</h3>
 <p align="left"> 
-  Hey, welcome to my perfil. I graduated in Technologist in Industrial Mechatronics. I have about 10 years of experience in Industrial Quality and as I studying to specialize in Software Quality.<br></p>
+  Bem vindo ao meu perfil, eu sou graduado em Tecnologia em Mecatrônica Industrial e tenho cerca de 10 anos de experiência na área da Qualidade Industrial. Atualmente, tenho me especializado em Qualidade de Software e meu objetivo é realizar uma transição de carreira. Além das práticas, conceitos e mentalidade do QA estou focando meus estudos em testes automatizados e dentre as ferramentas que eu encontrei me identifiquei bastante com Robot FrameWork.<br></p>
       🖥️ Quality Assurance Analisty.<br>
       🚶‍♂️  28 years old. <br>
       🏡 Curitiba/Brazil.<br>
-      💬 Contact-me
-<div align="right">          
+<hr>    
+<div align="left">          
 <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5541988362727&text=Ol%C3%A1%2C%20tudo%20bem%3F">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href /> </a>
 
@@ -23,15 +23,7 @@
 <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" href /> </a>
   </div>
   
-## <h3>Status:</h3>
-
-<div align="left"> 
-   
-[![marlon-tavares](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-tavares&hide=html&layout=compact&theme=dark)](https://github.com/marlon-tavares/)
-
-</div>
-
-## <h3>Skills:</h3>
+## <h3>Tecnologias:</h3>
  
 <a href="colocar link Postman">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" href /> </a>
@@ -59,6 +51,14 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" href /> </a>
 <a href="colocar link AI">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" href /> </a>
+ 
+ ## <h3>Status:</h3>
+
+<div align="left"> 
+   
+[![marlon-tavares](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-tavares&hide=html&layout=compact&theme=dark)](https://github.com/marlon-tavares/)
+
+</div>
    
  <hr>
  
