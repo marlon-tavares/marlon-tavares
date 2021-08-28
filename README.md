@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3> Olá, meu nome é Marlon Hlatchuk Tavares</h3>
 <p align="left"> 
-  Bem vindo ao meu perfil, eu sou graduado em Tecnologia em Mecatrônica Industrial e tenho cerca de 10 anos de experiência na área da Qualidade Industrial. Atualmente, tenho me especializado em Qualidade de Software. Além das práticas, conceitos e mentalidade do QA estou focando meus estudos em testes automatizados e dentre as ferramentas que eu encontrei me identifiquei bastante com Robot Framework.<br></p>
+ Graduado em Tecnologia em Mecatrônica Industrial com pós em Eng. de Produção atuo a mais de 9 anos na área da Qualidade diretamente com processos de qualidade, documentações, reporte de falhas, etc. Atualmente estou me especializando em Engenharia de Software com ênfase em Qualidade e Testes de Software. Tenho experiência em metodologias ágeis e conhecimento em planos e casos de teste, BDD, Gherkin e técnicas de teste. Estou focando meus estudos também em testes automatizados especialmente com a ferramenta Robot Framework.<br></p>
       🖥️ Quality Assurance Analisty.<br>
       🚶‍♂️  28 years old. <br>
       🏡 Curitiba/Brazil.<br>
