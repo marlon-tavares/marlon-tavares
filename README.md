@@ -1,9 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3> Olá, meu nome é Marlon Hlatchuk Tavares</h3>
 <p align="left"> 
- Analista de Qualidade com 9 anos de experiência na área. Trabalhei com diversas ferramentas e metodologias como: PDCA, 5s, Kaizen, Six Sigma e Ishikawa. Eu realizei a implementação do Sistema de Gestão da Qualidade da empresa, mapeando e elaborando todas as documentações da área da qualidade e prestando mentoria aos demais setores. Tenho experiência na realização de auditorias internas e externas, certificações de produtos e gestão de pessoas com aplicação de metodologias ágeis. Pessoa responsável por difundir a política de qualidade dentro da organização com foco na qualidade do produto. Especialista em resolução de problemas e apaixonado pela melhoria contínua, busco a otimização dos processos com foco no aumento da qualidade e produtividade. Sou Tecnólogo em Mecatrônica Industrial, pós-graduado em Engenharia de produção e atualmente estou cursando Engenharia de Software com Análise e Desenvolvimento de Sistemas. Almejo a área da tecnologia e com minhas experiências e soft skills sei que posso contribuir muito com o Squad atuando como Quality Assurance. Tenho experiência de 2 anos em testes manuais e conhecimento nas ferramentas: RobotFramework (automação de testes web e2e), MySQL, Azure, Postman e Git. Também programo e a linguagem que tenho maior conhecimento é C, a qual utilizei para desenvolver meu TCC de Mecatrônica, além disso desenvolvi alguns projetos acadêmicos em Html, CSS e Java.<br></p>
+Sou QA com experiência em sistemas web, mobile e desktop tendo atuado em projetos na área de meios de pagamento (cartões de crédito e benefício), ERP para Gestão de Frota e ERP para Gestão da Produção. Estou cursando Engenharia de Software e focando meus estudo em ferramentas de automação de testes. Tenho experiência em testes manuais e automatizados, desenvolvendo projetos de teste maven no Eclipse IDE com Selenium WebDriver e Cucumber na linguagem Java, além de projetos com Robot Framework e Cypress.
+Familiaridade com testes de API manual e automatizados com Postman, Banco de dados relacional (SQL), GIT, Jenkins, JMeter para testes de performance, carga e estresse além dos processos BDD, TDD, ATDD e linguagem Gherkin.
+
+Ferramentas:
+Selenium WebDriver, Cucumber, JUnit, RobotFramework, Cypress, BrowserStack, JMeter, Postman, Azure e Jira.
+
+Linguagens:
+Java, Javascript, Html, CSS e C.
+
+Outras ferramentas:
+Jenkins, Git e Maven.
+
+Frameworks e metodologia:
+Scrum, Kanban e KAIZEN.<br></p>
       🖥️ Quality Assurance Analisty.<br>
-      🚶‍♂️  28 years old. <br>
+      🚶‍♂️  29 years old. <br>
       🏡 Curitiba/Brazil.<br>
 <hr>    
 <div align="left">          
