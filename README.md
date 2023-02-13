@@ -31,9 +31,6 @@ Scrum, Kanban e KAIZEN.<br></p>
 
 <a href="https://www.linkedin.com/in/marlon-tavares/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href /> </a>
-
-<a href="https://www.behance.net/marlonhtav1194">
-<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" href /> </a>
   </div>
   
 ## <h3>Tecnologias:</h3>
