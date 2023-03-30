@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3> Olá, meu nome é Marlon Hlatchuk Tavares</h3>
 <p align="left"> 
-Sou QA com experiência em sistemas web, mobile e desktop tendo atuado em projetos na área de meios de pagamento (cartões de crédito e benefício), ERP para Gestão de Frota e ERP para Gestão da Produção. Estou cursando Engenharia de Software e focando meus estudo em ferramentas de automação de testes. Tenho experiência em testes manuais e automatizados, desenvolvendo projetos de teste maven no Eclipse IDE com Selenium WebDriver e Cucumber na linguagem Java, além de projetos com Robot Framework e Cypress.
-Familiaridade com testes de API manual e automatizados com Postman, Banco de dados relacional (SQL), GIT, Jenkins, JMeter para testes de performance, carga e estresse além dos processos BDD, TDD, ATDD e linguagem Gherkin.
+Sou QA com experiência em testes manuais e automatizados tendo atuado com Selenium, RestAssured, RobotFramework e Cypress. Familiaridade com testes de API, Banco de dados (SQL), GIT, Jenkins, JMeter, além dos processos BDD, TDD, ATDD e linguagem Gherkin.
 
 Ferramentas:
-Selenium WebDriver, Cucumber, JUnit, RobotFramework, Cypress, BrowserStack, JMeter, Postman, Azure e Jira.
+Cypress, Selenium WebDriver, RestAssured, Cucumber, JUnit, RobotFramework,  BrowserStack, JMeter, Postman, Insomia, Azure e Jira.
 
 Linguagens:
-Java, Javascript, Html, CSS e C.
+Java, Javascript, Python, Html e C.
 
 Outras ferramentas:
 Jenkins, Git e Maven.
