@@ -17,22 +17,18 @@ Scrum, Kanban e KAIZEN.<br></p>
       🖥️ Quality Assurance Analisty.<br>
       🚶‍♂️  29 years old. <br>
       🏡 Curitiba/Brazil.<br>
+      
 <hr>    
+<h3>Contatos:</h3>
 <div align="left">          
 <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5541988362727&text=Ol%C3%A1%2C%20tudo%20bem%3F">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href /> </a>
 
-<a href="https://t.me/marlonhtk">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href /> </a>
-
 <a href="https://mail.google.com/mail/u/?authuser=marlon.h.tavares@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href /> </a>
-
-<a href="https://www.linkedin.com/in/marlon-tavares/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href /> </a>
-  </div>
+</div>
   
-## <h3>Tecnologias:</h3>
+<h3>Tecnologias:</h3>
  
 <a href="colocar link Postman">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" href /> </a>
@@ -61,7 +57,7 @@ Scrum, Kanban e KAIZEN.<br></p>
 <a href="colocar link AI">
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" href /> </a>
  
- ## <h3>Status:</h3>
+ <h3>Status:</h3>
 
 <div align="left"> 
    
