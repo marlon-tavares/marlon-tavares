@@ -14,7 +14,7 @@ Jenkins, Git e Maven.
 
 Frameworks e metodologia:
 Scrum, Kanban e KAIZEN.<br></p>
-      🖥️ Quality Assurance Analisty.<br>
+      🖥️ QA Engineer.<br>
       🚶‍♂️  29 years old. <br>
       🏡 Curitiba/Brazil.<br>
       
