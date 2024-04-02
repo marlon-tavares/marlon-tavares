@@ -7,27 +7,16 @@ Ferramentas:
 Cypress, Selenium WebDriver, RestAssured, Cucumber, JUnit, RobotFramework,  BrowserStack, JMeter, Postman, Insomia, Azure e Jira.
 
 Linguagens:
-Java, Javascript, Python, Html e C.
+TypeScript,Javascript, Java, Python, Html, CSS e C.
 
 Outras ferramentas:
 Jenkins, Git e Maven.
 
 Frameworks e metodologia:
 Scrum, Kanban e KAIZEN.<br></p>
-      🖥️ QA Engineer.<br>
-      🚶‍♂️  29 years old. <br>
+      🖥️ QA Automation Engineer.<br>
       🏡 Curitiba/Brazil.<br>
       
-<hr>    
-<h3>Contatos:</h3>
-<div align="left">          
-<a href="https://api.whatsapp.com/send?l=pt-BR&phone=5541988362727&text=Ol%C3%A1%2C%20tudo%20bem%3F">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href /> </a>
-
-<a href="https://mail.google.com/mail/u/?authuser=marlon.h.tavares@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href /> </a>
-</div>
-  
 <h3>Status:</h3>
 
 <div align="left"> 
